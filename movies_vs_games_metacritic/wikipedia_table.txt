@@ -1,0 +1,583 @@
+#https://en.wikipedia.org/wiki/List_of_films_based_on_video_games
+#04/20/2022
+
+<table class="wikitable sortable jquery-tablesorter" style="width:100%;">
+
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Title</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Release date</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Worldwide box office</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Distributor</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Original game publisher
+</th></tr></thead><tbody>
+<tr>
+<td><i><a href="/wiki/Super_Mario_Bros._(film)" title="Super Mario Bros. (film)">Super Mario Bros.</a></i></td>
+<td><span data-sort-value="000000001993-05-28-0000" style="white-space:nowrap">May 28, 1993</span></td>
+<td>$38,912,465<sup id="cite_ref-ww_3-0" class="reference"><a href="#cite_note-ww-3">[2]</a></sup></td>
+<td><span data-sort-value="7001240000000000000♠">24</span>%<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup></td>
+<td><span data-sort-value="7001350000000000000♠">35</span>/100<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup></td>
+<td><a href="/wiki/Walt_Disney_Studios_Motion_Pictures" title="Walt Disney Studios Motion Pictures">Buena Vista Pictures Distribution</a></td>
+<td><a href="/wiki/Nintendo" title="Nintendo">Nintendo</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Double_Dragon_(film)" title="Double Dragon (film)">Double Dragon</a></i></td>
+<td><span data-sort-value="000000001994-11-04-0000" style="white-space:nowrap">November 4, 1994</span></td>
+<td>$4,152,699<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[b]</a></sup></td>
+<td><span data-sort-value="7001130000000000000♠">13</span>%<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup></td>
+<td>N/A</td>
+<td><a href="/wiki/Gramercy_Pictures" title="Gramercy Pictures">Gramercy Pictures</a></td>
+<td><a href="/wiki/Techn%C5%8Ds_Japan" title="Technōs Japan">Technōs Japan</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Street_Fighter_(1994_film)" title="Street Fighter (1994 film)">Street Fighter</a></i></td>
+<td><span data-sort-value="000000001994-12-23-0000" style="white-space:nowrap">December 23, 1994</span></td>
+<td>$99,423,521<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup></td>
+<td><span data-sort-value="7001130000000000000♠">13</span>%<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup></td>
+<td><span data-sort-value="7001340000000000000♠">34</span>/100<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup></td>
+<td><a href="/wiki/Universal_Pictures" title="Universal Pictures">Universal Pictures</a></td>
+<td><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mortal_Kombat_(1995_film)" title="Mortal Kombat (1995 film)">Mortal Kombat</a></i></td>
+<td><span data-sort-value="000000001995-08-18-0000" style="white-space:nowrap">August 18, 1995</span></td>
+<td>$124,741,822<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[c]</a></sup></td>
+<td><span data-sort-value="7001440000000000000♠">44</span>%<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[9]</a></sup></td>
+<td><span data-sort-value="7001600000000000000♠">60</span>/100<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[10]</a></sup></td>
+<td rowspan="2"><a href="/wiki/New_Line_Cinema" title="New Line Cinema">New Line Cinema</a></td>
+<td rowspan="2"><a href="/wiki/Midway_Games" title="Midway Games">Midway</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mortal_Kombat:_Annihilation" title="Mortal Kombat: Annihilation">Mortal Kombat: Annihilation</a></i></td>
+<td><span data-sort-value="000000001997-11-21-0000" style="white-space:nowrap">November 21, 1997</span></td>
+<td>$51,376,861<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[11]</a></sup></td>
+<td><span data-sort-value="7000200000000000000♠">2</span>%<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup></td>
+<td><span data-sort-value="7001110000000000000♠">11</span>/100<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[13]</a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Wing_Commander_(film)" title="Wing Commander (film)">Wing Commander</a></i></td>
+<td><span data-sort-value="000000001999-03-12-0000" style="white-space:nowrap">March 12, 1999</span></td>
+<td>$11,578,059<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[14]</a></sup></td>
+<td><span data-sort-value="7001100000000000000♠">10</span>%<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[15]</a></sup></td>
+<td><span data-sort-value="7001210000000000000♠">21</span>/100<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[16]</a></sup></td>
+<td><a href="/wiki/20th_Century_Fox" class="mw-redirect" title="20th Century Fox">20th Century Fox</a></td>
+<td><a href="/wiki/Origin_Systems" title="Origin Systems">Origin Systems</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Lara_Croft:_Tomb_Raider" title="Lara Croft: Tomb Raider">Lara Croft: Tomb Raider</a></i></td>
+<td><span data-sort-value="000000002001-06-15-0000" style="white-space:nowrap">June 15, 2001</span></td>
+<td>$274,703,340<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[17]</a></sup></td>
+<td><span data-sort-value="7001200000000000000♠">20</span>%<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[18]</a></sup></td>
+<td><span data-sort-value="7001330000000000000♠">33</span>/100<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[19]</a></sup></td>
+<td><a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a></td>
+<td><a href="/wiki/Eidos_Interactive" class="mw-redirect" title="Eidos Interactive">Eidos</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Resident_Evil_(film)" title="Resident Evil (film)">Resident Evil</a></i></td>
+<td><span data-sort-value="000000002002-03-15-0000" style="white-space:nowrap">March 15, 2002</span></td>
+<td>$102,984,862<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[20]</a></sup></td>
+<td><span data-sort-value="7001360000000000000♠">36</span>%<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[21]</a></sup></td>
+<td><span data-sort-value="7001330000000000000♠">33</span>/100<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[22]</a></sup></td>
+<td><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Lara_Croft:_Tomb_Raider_%E2%80%93_The_Cradle_of_Life" title="Lara Croft: Tomb Raider – The Cradle of Life">Lara Croft: Tomb Raider – The Cradle of Life</a></i></td>
+<td><span data-sort-value="000000002003-07-25-0000" style="white-space:nowrap">July 25, 2003</span></td>
+<td>$156,505,388<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[23]</a></sup></td>
+<td><span data-sort-value="7001240000000000000♠">24</span>%<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[24]</a></sup></td>
+<td><span data-sort-value="7001430000000000000♠">43</span>/100<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[25]</a></sup></td>
+<td><a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a></td>
+<td><a href="/wiki/Eidos-Montr%C3%A9al" title="Eidos-Montréal">Eidos</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/House_of_the_Dead_(film)" title="House of the Dead (film)">House of the Dead</a></i></td>
+<td><span data-sort-value="000000002003-10-10-0000" style="white-space:nowrap">October 10, 2003</span></td>
+<td>$13,818,181<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[26]</a></sup></td>
+<td><span data-sort-value="7000300000000000000♠">3</span>%<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[27]</a></sup></td>
+<td><span data-sort-value="7001150000000000000♠">15</span>/100<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[28]</a></sup></td>
+<td><a href="/wiki/Artisan_Entertainment" title="Artisan Entertainment">Artisan Entertainment</a></td>
+<td><a href="/wiki/Sega_Sammy_Holdings" title="Sega Sammy Holdings">Sega Sammy</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Resident_Evil:_Apocalypse" title="Resident Evil: Apocalypse">Resident Evil: Apocalypse</a></i></td>
+<td><span data-sort-value="000000002004-09-10-0000" style="white-space:nowrap">September 10, 2004</span></td>
+<td>$129,342,769<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[29]</a></sup></td>
+<td><span data-sort-value="7001190000000000000♠">19</span>%<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[30]</a></sup></td>
+<td><span data-sort-value="7001350000000000000♠">35</span>/100<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[31]</a></sup></td>
+<td><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Alone_in_the_Dark_(2005_film)" title="Alone in the Dark (2005 film)">Alone in the Dark</a></i></td>
+<td><span data-sort-value="000000002005-01-28-0000" style="white-space:nowrap">January 28, 2005</span></td>
+<td>$10,442,808<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[32]</a></sup></td>
+<td><span data-sort-value="7000100000000000000♠">1</span>%<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[33]</a></sup></td>
+<td><span data-sort-value="7000900000000000000♠">9</span>/100<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[34]</a></sup></td>
+<td><a href="/wiki/Lionsgate_Films" title="Lionsgate Films">Lionsgate Films</a></td>
+<td><a href="/wiki/Infogrames_Entertainment,_SA" class="mw-redirect" title="Infogrames Entertainment, SA">Infogrames</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Doom_(film)" title="Doom (film)">Doom</a></i></td>
+<td><span data-sort-value="000000002005-10-21-0000" style="white-space:nowrap">October 21, 2005</span></td>
+<td>$55,987,321<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[35]</a></sup></td>
+<td><span data-sort-value="7001180000000000000♠">18</span>%<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[36]</a></sup></td>
+<td><span data-sort-value="7001340000000000000♠">34</span>/100<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[37]</a></sup></td>
+<td><a href="/wiki/Universal_Pictures" title="Universal Pictures">Universal Pictures</a></td>
+<td><a href="/wiki/Id_Software" title="Id Software">id Software</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/BloodRayne_(film)" title="BloodRayne (film)">BloodRayne</a></i></td>
+<td><span data-sort-value="000000002006-01-06-0000" style="white-space:nowrap">January 6, 2006</span></td>
+<td>$3,650,275<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[38]</a></sup></td>
+<td><span data-sort-value="7000400000000000000♠">4</span>%<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[39]</a></sup></td>
+<td><span data-sort-value="7001180000000000000♠">18</span>/100<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[40]</a></sup></td>
+<td>Boll KG Productions</td>
+<td><a href="/wiki/Majesco_Entertainment" title="Majesco Entertainment">Majesco Entertainment</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Silent_Hill_(film)" title="Silent Hill (film)">Silent Hill</a></i></td>
+<td><span data-sort-value="000000002006-04-21-0000" style="white-space:nowrap">April 21, 2006</span></td>
+<td>$97,607,453<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[41]</a></sup></td>
+<td><span data-sort-value="7001320000000000000♠">32</span>%<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[42]</a></sup></td>
+<td><span data-sort-value="7001310000000000000♠">31</span>/100<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[43]</a></sup></td>
+<td><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Konami" title="Konami">Konami</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/DOA:_Dead_or_Alive" title="DOA: Dead or Alive">DOA: Dead or Alive</a></i></td>
+<td><span data-sort-value="000000002006-09-07-0000" style="white-space:nowrap">September 7, 2006</span></td>
+<td>$7,516,532<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[44]</a></sup></td>
+<td><span data-sort-value="7001330000000000000♠">33</span>%<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[45]</a></sup></td>
+<td><span data-sort-value="7001380000000000000♠">38</span>/100<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[46]</a></sup></td>
+<td><a href="/wiki/Metro-Goldwyn-Mayer" title="Metro-Goldwyn-Mayer">Metro-Goldwyn-Mayer</a> / <a href="/wiki/Dimension_Films" title="Dimension Films">Dimension Films</a></td>
+<td><a href="/wiki/Tecmo" title="Tecmo">Tecmo</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Resident_Evil:_Extinction" title="Resident Evil: Extinction">Resident Evil: Extinction</a></i></td>
+<td><span data-sort-value="000000002007-09-21-0000" style="white-space:nowrap">September 21, 2007</span></td>
+<td>$148,412,065<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[47]</a></sup></td>
+<td><span data-sort-value="7001250000000000000♠">25</span>%<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[48]</a></sup></td>
+<td><span data-sort-value="7001410000000000000♠">41</span>/100<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[49]</a></sup></td>
+<td><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Postal_(film)" title="Postal (film)">Postal</a></i></td>
+<td><span data-sort-value="000000002007-10-18-0000" style="white-space:nowrap">October 18, 2007</span></td>
+<td>$146,741<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[50]</a></sup></td>
+<td><span data-sort-value="7000900000000000000♠">9</span>%<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[51]</a></sup></td>
+<td><span data-sort-value="7001220000000000000♠">22</span>/100<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[52]</a></sup></td>
+<td><a href="/wiki/Vivendi_Entertainment" class="mw-redirect" title="Vivendi Entertainment">Vivendi Entertainment</a></td>
+<td><a href="/wiki/Ripcord_Games" title="Ripcord Games">Ripcord Games</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Hitman_(2007_film)" title="Hitman (2007 film)">Hitman</a></i></td>
+<td><span data-sort-value="000000002007-11-21-0000" style="white-space:nowrap">November 21, 2007</span></td>
+<td>$101,276,318<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[53]</a></sup></td>
+<td><span data-sort-value="7001160000000000000♠">16</span>%<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[54]</a></sup></td>
+<td><span data-sort-value="7001350000000000000♠">35</span>/100<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[55]</a></sup></td>
+<td rowspan="5"><a href="/wiki/20th_Century_Fox" class="mw-redirect" title="20th Century Fox">20th Century Fox</a></td>
+<td><a href="/wiki/Eidos-Montr%C3%A9al" title="Eidos-Montréal">Eidos</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/In_the_Name_of_the_King" title="In the Name of the King">In the Name of the King: A Dungeon Siege Tale</a></i></td>
+<td><span data-sort-value="000000002008-01-11-0000" style="white-space:nowrap">January 11, 2008</span></td>
+<td>$13,097,915<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[56]</a></sup></td>
+<td><span data-sort-value="7000400000000000000♠">4</span>%<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[57]</a></sup></td>
+<td><span data-sort-value="7001150000000000000♠">15</span>/100<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[58]</a></sup></td>
+<td><a href="/wiki/Microsoft_Studios" class="mw-redirect" title="Microsoft Studios">Microsoft Studios</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Far_Cry_(film)" title="Far Cry (film)">Far Cry</a></i></td>
+<td><span data-sort-value="000000002008-10-02-0000" style="white-space:nowrap">October 2, 2008</span></td>
+<td>$743,634<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[59]</a></sup></td>
+<td>N/A<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[60]</a></sup></td>
+<td>N/A</td>
+<td><a href="/wiki/Ubisoft" title="Ubisoft">Ubisoft</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Max_Payne_(film)" title="Max Payne (film)">Max Payne</a></i></td>
+<td><span data-sort-value="000000002008-10-17-0000" style="white-space:nowrap">October 17, 2008</span></td>
+<td>$85,416,905<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[61]</a></sup></td>
+<td><span data-sort-value="7001160000000000000♠">16</span>%<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[62]</a></sup></td>
+<td><span data-sort-value="7001310000000000000♠">31</span>/100<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[63]</a></sup></td>
+<td><a href="/wiki/Rockstar_Games" title="Rockstar Games">Rockstar Games</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Street_Fighter:_The_Legend_of_Chun-Li" title="Street Fighter: The Legend of Chun-Li">Street Fighter: The Legend of Chun-Li</a></i></td>
+<td><span data-sort-value="000000002009-02-27-0000" style="white-space:nowrap">February 27, 2009</span></td>
+<td>$12,764,201<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[64]</a></sup></td>
+<td><span data-sort-value="7000500000000000000♠">5</span>%<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[65]</a></sup></td>
+<td><span data-sort-value="7001170000000000000♠">17</span>/100<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[66]</a></sup></td>
+<td><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Tekken_(2009_film)" title="Tekken (2009 film)">Tekken</a></i></td>
+<td><span data-sort-value="000000002010-03-20-0000" style="white-space:nowrap">March 20, 2010</span></td>
+<td>$1,697,207<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[67]</a></sup></td>
+<td><span data-sort-value="5000000000000000000♠">0</span>%<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[68]</a></sup></td>
+<td>N/A</td>
+<td><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></td>
+<td><a href="/wiki/Bandai_Namco_Entertainment" title="Bandai Namco Entertainment">Bandai Namco Games</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Prince_of_Persia:_The_Sands_of_Time_(film)" title="Prince of Persia: The Sands of Time (film)">Prince of Persia: The Sands of Time</a></i></td>
+<td><span data-sort-value="000000002010-05-28-0000" style="white-space:nowrap">May 28, 2010</span></td>
+<td>$336,365,676<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[69]</a></sup></td>
+<td><span data-sort-value="7001370000000000000♠">37</span>%<sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[70]</a></sup></td>
+<td><span data-sort-value="7001500000000000000♠">50</span>/100<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[71]</a></sup></td>
+<td><a href="/wiki/Walt_Disney_Studios_Motion_Pictures" title="Walt Disney Studios Motion Pictures">Walt Disney Studios Motion Pictures</a></td>
+<td><a href="/wiki/Ubisoft" title="Ubisoft">Ubisoft</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Resident_Evil:_Afterlife" title="Resident Evil: Afterlife">Resident Evil: Afterlife</a></i></td>
+<td><span data-sort-value="000000002010-09-10-0000" style="white-space:nowrap">September 10, 2010</span></td>
+<td>$300,228,084<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">[72]</a></sup></td>
+<td><span data-sort-value="7001220000000000000♠">22</span>%<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[73]</a></sup></td>
+<td><span data-sort-value="7001370000000000000♠">37</span>/100<sup id="cite_ref-77" class="reference"><a href="#cite_note-77">[74]</a></sup></td>
+<td rowspan="2"><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td rowspan="2"><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Resident_Evil:_Retribution" title="Resident Evil: Retribution">Resident Evil: Retribution</a></i></td>
+<td><span data-sort-value="000000002012-09-14-0000" style="white-space:nowrap">September 14, 2012</span></td>
+<td>$240,004,424<sup id="cite_ref-78" class="reference"><a href="#cite_note-78">[75]</a></sup></td>
+<td><span data-sort-value="7001280000000000000♠">28</span>%<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[76]</a></sup></td>
+<td><span data-sort-value="7001390000000000000♠">39</span>/100<sup id="cite_ref-80" class="reference"><a href="#cite_note-80">[77]</a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Silent_Hill:_Revelation" title="Silent Hill: Revelation">Silent Hill: Revelation</a></i></td>
+<td><span data-sort-value="000000002012-10-26-0000" style="white-space:nowrap">October 26, 2012</span></td>
+<td>$52,302,796<sup id="cite_ref-81" class="reference"><a href="#cite_note-81">[78]</a></sup></td>
+<td><span data-sort-value="7001100000000000000♠">10</span>%<sup id="cite_ref-82" class="reference"><a href="#cite_note-82">[79]</a></sup></td>
+<td><span data-sort-value="7001160000000000000♠">16</span>/100<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">[80]</a></sup></td>
+<td><a href="/wiki/Open_Road_Films" title="Open Road Films">Open Road Films</a></td>
+<td><a href="/wiki/Konami" title="Konami">Konami</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Need_for_Speed_(film)" title="Need for Speed (film)">Need for Speed</a></i></td>
+<td><span data-sort-value="000000002014-03-14-0000" style="white-space:nowrap">March 14, 2014</span></td>
+<td>$203,277,636<sup id="cite_ref-84" class="reference"><a href="#cite_note-84">[81]</a></sup></td>
+<td><span data-sort-value="7001230000000000000♠">23</span>%<sup id="cite_ref-85" class="reference"><a href="#cite_note-85">[82]</a></sup></td>
+<td><span data-sort-value="7001390000000000000♠">39</span>/100<sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[83]</a></sup></td>
+<td><a href="/wiki/Walt_Disney_Studios_Motion_Pictures" title="Walt Disney Studios Motion Pictures">Walt Disney Studios Motion Pictures</a></td>
+<td><a href="/wiki/Electronic_Arts" title="Electronic Arts">Electronic Arts</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Hitman:_Agent_47" title="Hitman: Agent 47">Hitman: Agent 47</a></i></td>
+<td><span data-sort-value="000000002015-08-21-0000" style="white-space:nowrap">August 21, 2015</span></td>
+<td>$82,347,656<sup id="cite_ref-87" class="reference"><a href="#cite_note-87">[84]</a></sup></td>
+<td><span data-sort-value="7000800000000000000♠">8</span>%<sup id="cite_ref-88" class="reference"><a href="#cite_note-88">[85]</a></sup></td>
+<td><span data-sort-value="7001280000000000000♠">28</span>/100<sup id="cite_ref-89" class="reference"><a href="#cite_note-89">[86]</a></sup></td>
+<td><a href="/wiki/20th_Century_Fox" class="mw-redirect" title="20th Century Fox">20th Century Fox</a></td>
+<td><a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Warcraft_(film)" title="Warcraft (film)">Warcraft</a></i></td>
+<td><span data-sort-value="000000002016-06-10-0000" style="white-space:nowrap">June 10, 2016</span></td>
+<td>$439,048,914<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[87]</a></sup></td>
+<td><span data-sort-value="7001280000000000000♠">28</span>%<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[88]</a></sup></td>
+<td><span data-sort-value="7001320000000000000♠">32</span>/100<sup id="cite_ref-92" class="reference"><a href="#cite_note-92">[89]</a></sup></td>
+<td><a href="/wiki/Universal_Pictures" title="Universal Pictures">Universal Pictures</a></td>
+<td><a href="/wiki/Blizzard_Entertainment" title="Blizzard Entertainment">Blizzard Entertainment</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Assassin%27s_Creed_(film)" title="Assassin's Creed (film)">Assassin's Creed</a></i></td>
+<td><span data-sort-value="000000002016-12-21-0000" style="white-space:nowrap">December 21, 2016</span></td>
+<td>$240,558,621<sup id="cite_ref-93" class="reference"><a href="#cite_note-93">[90]</a></sup></td>
+<td><span data-sort-value="7001180000000000000♠">18</span>%<sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[91]</a></sup></td>
+<td><span data-sort-value="7001360000000000000♠">36</span>/100<sup id="cite_ref-95" class="reference"><a href="#cite_note-95">[92]</a></sup></td>
+<td><a href="/wiki/20th_Century_Fox" class="mw-redirect" title="20th Century Fox">20th Century Fox</a></td>
+<td><a href="/wiki/Ubisoft" title="Ubisoft">Ubisoft</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Resident_Evil:_The_Final_Chapter" title="Resident Evil: The Final Chapter">Resident Evil: The Final Chapter</a></i></td>
+<td><span data-sort-value="000000002017-01-27-0000" style="white-space:nowrap">January 27, 2017</span></td>
+<td>$312,257,250<sup id="cite_ref-96" class="reference"><a href="#cite_note-96">[93]</a></sup></td>
+<td><span data-sort-value="7001370000000000000♠">37</span>%<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">[94]</a></sup></td>
+<td><span data-sort-value="7001490000000000000♠">49</span>/100<sup id="cite_ref-98" class="reference"><a href="#cite_note-98">[95]</a></sup></td>
+<td><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Tomb_Raider_(film)" title="Tomb Raider (film)">Tomb Raider</a></i></td>
+<td><span data-sort-value="000000002018-03-16-0000" style="white-space:nowrap">March 16, 2018</span></td>
+<td>$274,650,803<sup id="cite_ref-99" class="reference"><a href="#cite_note-99">[96]</a></sup></td>
+<td><span data-sort-value="7001520000000000000♠">52</span>%<sup id="cite_ref-100" class="reference"><a href="#cite_note-100">[97]</a></sup></td>
+<td><span data-sort-value="7001480000000000000♠">48</span>/100<sup id="cite_ref-101" class="reference"><a href="#cite_note-101">[98]</a></sup></td>
+<td rowspan="2"><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></td>
+<td><a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Rampage_(2018_film)" title="Rampage (2018 film)">Rampage</a></i></td>
+<td><span data-sort-value="000000002018-04-13-0000" style="white-space:nowrap">April 13, 2018</span></td>
+<td>$428,028,233<sup id="cite_ref-102" class="reference"><a href="#cite_note-102">[99]</a></sup></td>
+<td><span data-sort-value="7001510000000000000♠">51</span>%<sup id="cite_ref-103" class="reference"><a href="#cite_note-103">[100]</a></sup></td>
+<td><span data-sort-value="7001450000000000000♠">45</span>/100<sup id="cite_ref-104" class="reference"><a href="#cite_note-104">[101]</a></sup></td>
+<td><a href="/wiki/WB_Games" class="mw-redirect" title="WB Games">WB Games</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Dead_Trigger_(film)" title="Dead Trigger (film)">Dead Trigger</a></i></td>
+<td><span data-sort-value="000000002019-05-03-0000" style="white-space:nowrap">May 3, 2019</span></td>
+<td>$151,493<sup id="cite_ref-105" class="reference"><a href="#cite_note-105">[102]</a></sup></td>
+<td>N/A</td>
+<td>N/A</td>
+<td><a href="/wiki/Saban_Capital_Group" title="Saban Capital Group">Saban Films</a></td>
+<td><a href="/wiki/Madfinger_Games" title="Madfinger Games">Madfinger Games</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Detective_Pikachu_(film)" title="Detective Pikachu (film)">Detective Pikachu</a></i></td>
+<td><span data-sort-value="000000002019-05-10-0000" style="white-space:nowrap">May 10, 2019</span></td>
+<td>$433,005,346<sup id="cite_ref-106" class="reference"><a href="#cite_note-106">[103]</a></sup></td>
+<td><span data-sort-value="7001680000000000000♠">68</span>%<sup id="cite_ref-107" class="reference"><a href="#cite_note-107">[104]</a></sup></td>
+<td><span data-sort-value="7001530000000000000♠">53</span>/100<sup id="cite_ref-108" class="reference"><a href="#cite_note-108">[105]</a></sup></td>
+<td><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></td>
+<td><a href="/wiki/Nintendo" title="Nintendo">Nintendo</a><br><a href="/wiki/The_Pok%C3%A9mon_Company" title="The Pokémon Company">The Pokémon Company</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Sonic_the_Hedgehog_(film)" title="Sonic the Hedgehog (film)">Sonic the Hedgehog</a></i></td>
+<td><span data-sort-value="000000002020-02-14-0000" style="white-space:nowrap">February 14, 2020</span></td>
+<td>$320,954,026<sup id="cite_ref-109" class="reference"><a href="#cite_note-109">[106]</a></sup></td>
+<td><span data-sort-value="7001630000000000000♠">63</span>%<sup id="cite_ref-110" class="reference"><a href="#cite_note-110">[107]</a></sup></td>
+<td><span data-sort-value="7001470000000000000♠">47</span>/100<sup id="cite_ref-111" class="reference"><a href="#cite_note-111">[108]</a></sup></td>
+<td><a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a></td>
+<td><a href="/wiki/Sega_Sammy_Holdings" title="Sega Sammy Holdings">Sega Sammy</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Monster_Hunter_(film)" title="Monster Hunter (film)">Monster Hunter</a></i></td>
+<td><span data-sort-value="000000002020-12-18-0000" style="white-space:nowrap">December 18, 2020</span></td>
+<td>$42,145,959<sup id="cite_ref-112" class="reference"><a href="#cite_note-112">[109]</a></sup></td>
+<td><span data-sort-value="7001450000000000000♠">45</span>%<sup id="cite_ref-113" class="reference"><a href="#cite_note-113">[110]</a></sup></td>
+<td><span data-sort-value="7001470000000000000♠">47</span>/100<sup id="cite_ref-114" class="reference"><a href="#cite_note-114">[111]</a></sup></td>
+<td><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mortal_Kombat_(2021_film)" title="Mortal Kombat (2021 film)">Mortal Kombat</a></i></td>
+<td><span data-sort-value="000000002021-04-23-0000" style="white-space:nowrap">April 23, 2021</span></td>
+<td>$83,601,013<sup id="cite_ref-115" class="reference"><a href="#cite_note-115">[112]</a></sup></td>
+<td><span data-sort-value="7001540000000000000♠">54</span>%<sup id="cite_ref-116" class="reference"><a href="#cite_note-116">[113]</a></sup></td>
+<td><span data-sort-value="7001440000000000000♠">44</span>/100<sup id="cite_ref-117" class="reference"><a href="#cite_note-117">[114]</a></sup></td>
+<td><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></td>
+<td><a href="/wiki/Warner_Bros._Interactive_Entertainment" title="Warner Bros. Interactive Entertainment">WB Games</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Werewolves_Within_(film)" title="Werewolves Within (film)">Werewolves Within</a></i></td>
+<td><span data-sort-value="000000002021-06-25-0000" style="white-space:nowrap">June 25, 2021</span></td>
+<td>$937,490<sup id="cite_ref-118" class="reference"><a href="#cite_note-118">[115]</a></sup></td>
+<td><span data-sort-value="7001860000000000000♠">86</span>%<sup id="cite_ref-119" class="reference"><a href="#cite_note-119">[116]</a></sup></td>
+<td><span data-sort-value="7001660000000000000♠">66</span>/100<sup id="cite_ref-120" class="reference"><a href="#cite_note-120">[117]</a></sup></td>
+<td><a href="/wiki/IFC_Films" title="IFC Films">IFC Films</a></td>
+<td><a href="/wiki/Ubisoft" title="Ubisoft">Ubisoft</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Resident_Evil:_Welcome_to_Raccoon_City" title="Resident Evil: Welcome to Raccoon City">Resident Evil: Welcome to Raccoon City</a></i></td>
+<td><span data-sort-value="000000002021-11-24-0000" style="white-space:nowrap">November 24, 2021</span></td>
+<td>$38,600,612<sup id="cite_ref-121" class="reference"><a href="#cite_note-121">[118]</a></sup></td>
+<td><span data-sort-value="7001310000000000000♠">31</span>%<sup id="cite_ref-122" class="reference"><a href="#cite_note-122">[119]</a></sup></td>
+<td><span data-sort-value="7001440000000000000♠">44</span>/100<sup id="cite_ref-123" class="reference"><a href="#cite_note-123">[120]</a></sup></td>
+<td rowspan="2"><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Capcom" title="Capcom">Capcom</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Uncharted_(film)" title="Uncharted (film)">Uncharted</a></i></td>
+<td><span data-sort-value="000000002022-02-18-0000" style="white-space:nowrap">February 18, 2022</span></td>
+<td>$383,657,447<sup id="cite_ref-124" class="reference"><a href="#cite_note-124">[121]</a></sup></td>
+<td><span data-sort-value="7001410000000000000♠">41</span>%<sup id="cite_ref-125" class="reference"><a href="#cite_note-125">[122]</a></sup></td>
+<td><span data-sort-value="7001450000000000000♠">45</span>/100<sup id="cite_ref-126" class="reference"><a href="#cite_note-126">[123]</a></sup></td>
+<td><a href="/wiki/Sony_Interactive_Entertainment" title="Sony Interactive Entertainment">Sony Interactive Entertainment</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Sonic_the_Hedgehog_2_(film)" title="Sonic the Hedgehog 2 (film)">Sonic the Hedgehog 2</a></i>
+</td>
+<td><span data-sort-value="000000002022-04-08-0000" style="white-space:nowrap">April 8, 2022</span></td>
+<td>$158,627,044<sup id="cite_ref-127" class="reference"><a href="#cite_note-127">[124]</a></sup></td>
+<td><span data-sort-value="7001690000000000000♠">69</span>%<sup id="cite_ref-128" class="reference"><a href="#cite_note-128">[125]</a></sup></td>
+<td><span data-sort-value="7001470000000000000♠">47</span>/100<sup id="cite_ref-129" class="reference"><a href="#cite_note-129">[126]</a></sup></td>
+<td><a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a></td>
+<td><a href="/wiki/Sega_Sammy_Holdings" title="Sega Sammy Holdings">Sega Sammy</a>
+</td></tr>
+<tr>
+<th colspan="7">Upcoming
+</th></tr>
+<tr>
+<td><a href="/wiki/Borderlands_(film)" title="Borderlands (film)"><i>Borderlands</i></a><sup id="cite_ref-130" class="reference"><a href="#cite_note-130">[127]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Lionsgate_Films" title="Lionsgate Films">Lionsgate Films</a></td>
+<td><a href="/wiki/2K_Games" class="mw-redirect" title="2K Games">2K Games</a>
+</td></tr>
+<tr>
+<td>Untitled <i>CrossFire</i> film<sup id="cite_ref-131" class="reference"><a href="#cite_note-131">[128]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Sony_Pictures_Motion_Picture_Group#Sony_Pictures_Releasing" title="Sony Pictures Motion Picture Group">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Smilegate" title="Smilegate">Smilegate</a>
+</td></tr>
+<tr>
+<td><i>Five Nights at Freddy's</i> <sup id="cite_ref-132" class="reference"><a href="#cite_note-132">[129]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Blumhouse_Productions" title="Blumhouse Productions">Blumhouse Productions</a></td>
+<td><a href="/wiki/Scott_Cawthon" title="Scott Cawthon">Scott Cawthon</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Gears of War</i> film<sup id="cite_ref-133" class="reference"><a href="#cite_note-133">[130]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Universal_Pictures" title="Universal Pictures">Universal Pictures</a></td>
+<td><a href="/wiki/Xbox_Game_Studios" title="Xbox Game Studios">Microsoft Studios</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Ghost of Tsushima</i> film<sup id="cite_ref-134" class="reference"><a href="#cite_note-134">[131]</a></sup>
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a>
+</td>
+<td><a href="/wiki/Sucker_Punch_Productions" title="Sucker Punch Productions">Sucker Punch</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Just Cause</i> film<sup id="cite_ref-135" class="reference"><a href="#cite_note-135">[132]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA
+</td>
+<td><a href="/wiki/Universal_Pictures" title="Universal Pictures">Universal Pictures</a></td>
+<td><a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Just Dance</i> film<sup id="cite_ref-136" class="reference"><a href="#cite_note-136">[133]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Screen_Gems" title="Screen Gems">Screen Gems</a></td>
+<td><a href="/wiki/Ubisoft" title="Ubisoft">Ubisoft</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Minecraft_(franchise)#Untitled_Minecraft_film" title="Minecraft (franchise)">Minecraft</a></i><sup id="cite_ref-137" class="reference"><a href="#cite_note-137">[134]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></td>
+<td><a href="/wiki/Mojang" class="mw-redirect" title="Mojang">Mojang</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Metal Gear Solid</i> film<sup id="cite_ref-138" class="reference"><a href="#cite_note-138">[135]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Sony_Pictures_Releasing" class="mw-redirect" title="Sony Pictures Releasing">Sony Pictures Releasing</a></td>
+<td><a href="/wiki/Konami" title="Konami">Konami</a>
+</td></tr>
+<tr>
+<td><i>Mortal Kombat 2</i></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></td>
+<td><a href="/wiki/WB_Games" class="mw-redirect" title="WB Games">WB Games</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Portal</i> film<sup id="cite_ref-139" class="reference"><a href="#cite_note-139">[136]</a></sup><sup id="cite_ref-140" class="reference"><a href="#cite_note-140">[137]</a></sup>
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a>
+</td>
+<td><a href="/wiki/Valve_Corporation" title="Valve Corporation">Valve Corporation</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Rabbids</i> film<sup id="cite_ref-141" class="reference"><a href="#cite_note-141">[138]</a></sup>
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td><a href="/wiki/Lionsgate_Films" title="Lionsgate Films">Lionsgate</a>
+</td>
+<td><a href="/wiki/Ubisoft" title="Ubisoft">Ubisoft</a>
+</td></tr>
+<tr>
+<td><i>Sonic the Hedgehog 3</i><sup id="cite_ref-SequelAndKnuckles_142-0" class="reference"><a href="#cite_note-SequelAndKnuckles-142">[139]</a></sup>
+</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a></td>
+<td><a href="/wiki/Sega_Sammy_Holdings" title="Sega Sammy Holdings">Sega Sammy</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Space Invaders</i> film<sup id="cite_ref-143" class="reference"><a href="#cite_note-143">[140]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></td>
+<td><a href="/wiki/Taito" title="Taito">Taito</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Tomb_Raider_(film)#Planned_Sequel" title="Tomb Raider (film)">Tomb Raider: Obsidian</a></i><sup id="cite_ref-144" class="reference"><a href="#cite_note-144">[141]</a></sup><sup id="cite_ref-145" class="reference"><a href="#cite_note-145">[142]</a></sup><sup id="cite_ref-146" class="reference"><a href="#cite_note-146">[143]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/United_Artists_Releasing" class="mw-redirect" title="United Artists Releasing">United Artists Releasing</a></td>
+<td><a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Saints Row</i> film<sup id="cite_ref-147" class="reference"><a href="#cite_note-147">[144]</a></sup></td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/wiki/Deep_Silver" title="Deep Silver">Deep Silver</a>
+</td></tr>
+<tr>
+<td>Untitled <i>Yakuza</i> film<sup id="cite_ref-148" class="reference"><a href="#cite_note-148">[145]</a></sup>
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td>TBA
+</td>
+<td><a href="/wiki/Sega_Sammy_Holdings" title="Sega Sammy Holdings">Sega Sammy</a>
+</td></tr></tbody><tfoot></tfoot></table>

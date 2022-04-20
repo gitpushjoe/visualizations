@@ -1,0 +1,58 @@
+<table class="wikitable sortable jquery-tablesorter" style="width:100%;">
+
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button">Title</th>
+<th class="headerSort" tabindex="0" role="columnheader button">Release date</th>
+<th class="headerSort" tabindex="0" role="columnheader button">Worldwide box office</th>
+<th class="headerSort" tabindex="0" role="columnheader button"><a href="/en/Rotten_Tomatoes" title="Rotten Tomatoes" class="int-link">Rotten Tomatoes</a></th>
+<th class="headerSort" tabindex="0" role="columnheader button"><a href="/en/Metacritic" title="Metacritic" class="int-link">Metacritic</a></th>
+<th class="headerSort" tabindex="0" role="columnheader button">Distributor</th>
+<th class="headerSort" tabindex="0" role="columnheader button">Original game publisher
+</th></tr></thead><tbody>
+<tr>
+<td><i><a href="/en/Final_Fantasy:_The_Spirits_Within" title="" class="int-link">Final Fantasy: The Spirits Within</a></i></td>
+<td><span data-sort-value="000000002001-07-11-0000" style="white-space:nowrap">July 11, 2001</span></td>
+<td>$85,131,830<sup id="cite_ref-149" class="reference"><a href="#citenote149" class="anch-link">[146]</a></sup></td>
+<td><span data-sort-value="7001440000000000000♠">44</span>%<sup id="cite_ref-150" class="reference"><a href="#citenote150" class="anch-link">[147]</a></sup></td>
+<td><span data-sort-value="7001490000000000000♠">49</span>/100<sup id="cite_ref-151" class="reference"><a href="#citenote151" class="anch-link">[148]</a></sup></td>
+<td><a href="/en/Columbia_Pictures" title="Columbia Pictures" class="int-link">Columbia Pictures</a></td>
+<td><a href="/en/Square_(video_game_company)" title="Square (video game company)" class="int-link">Square</a>
+</td></tr>
+<tr>
+<td><i><a href="/en/Ratchet_%26_Clank_(film)" title="" class="int-link">Ratchet &amp; Clank</a></i></td>
+<td><span data-sort-value="000000002016-04-29-0000" style="white-space:nowrap">April 29, 2016</span></td>
+<td>$13,385,737<sup id="cite_ref-152" class="reference"><a href="#citenote152" class="anch-link">[149]</a></sup></td>
+<td><span data-sort-value="7001210000000000000♠">21</span>%<sup id="cite_ref-153" class="reference"><a href="#citenote153" class="anch-link">[150]</a></sup></td>
+<td><span data-sort-value="7001290000000000000♠">29</span>/100<sup id="cite_ref-154" class="reference"><a href="#citenote154" class="anch-link">[151]</a></sup></td>
+<td><a href="/en/Gramercy_Pictures" title="Gramercy Pictures" class="int-link">Gramercy Pictures</a></td>
+<td><a href="/en/Sony_Interactive_Entertainment" title="Sony Interactive Entertainment" class="int-link">Sony Interactive Entertainment</a>
+</td></tr>
+<tr>
+<td><i><a href="/en/The_Angry_Birds_Movie" title="The Angry Birds Movie" class="int-link">The Angry Birds Movie</a></i></td>
+<td><span data-sort-value="000000002016-05-20-0000" style="white-space:nowrap">May 20, 2016</span></td>
+<td>$352,333,929<sup id="cite_ref-155" class="reference"><a href="#citenote155" class="anch-link">[152]</a></sup></td>
+<td><span data-sort-value="7001430000000000000♠">43</span>%<sup id="cite_ref-156" class="reference"><a href="#citenote156" class="anch-link">[153]</a></sup></td>
+<td><span data-sort-value="7001430000000000000♠">43</span>/100<sup id="cite_ref-157" class="reference"><a href="#citenote157" class="anch-link">[154]</a></sup></td>
+<td rowspan="2"><a href="/en/Sony_Pictures_Motion_Picture_Group#Sony_Pictures_Releasing" title="Sony Pictures Motion Picture Group" class="int-link">Sony Pictures Releasing</a></td>
+<td rowspan="2"><a href="/en/Rovio_Entertainment" title="Rovio Entertainment" class="int-link">Rovio Entertainment</a>
+</td></tr>
+<tr>
+<td><i><a href="/en/The_Angry_Birds_Movie_2" title="" class="int-link">The Angry Birds Movie 2</a></i></td>
+<td>August 14, 2019</td>
+<td>$147,792,047<sup id="cite_ref-158" class="reference"><a href="#citenote158" class="anch-link">[155]</a></sup></td>
+<td>72%<sup id="cite_ref-159" class="reference"><a href="#citenote159" class="anch-link">[156]</a></sup></td>
+<td>60/100<sup id="cite_ref-160" class="reference"><a href="#citenote160" class="anch-link">[157]</a></sup>
+</td></tr>
+<tr>
+<th colspan="7">Upcoming
+</th></tr>
+<tr>
+<td><a href="/en/Untitled_Mario_film" class="int-link tooltipstered" title="">Untitled <i>Mario</i> film</a><sup id="cite_ref-161" class="reference"><a href="#citenote161" class="anch-link">[158]</a></sup></td>
+<td>December 21, 2022</td>
+<td>TBA</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="/en/Universal_Pictures" title="Universal Pictures" class="int-link">Universal Pictures</a></td>
+<td><a href="/en/Nintendo" title="Nintendo" class="int-link">Nintendo</a>
+</td></tr>
+</tbody><tfoot></tfoot></table>
